@@ -20,7 +20,7 @@ export default StyleSheet.create({
     borderRadius: 0,
   },
   textInput: {
-    // backgroundColor: 'transparent',
+    backgroundColor: '#fff',
     borderColor: 'black',
   },
   rippleStyle: {
